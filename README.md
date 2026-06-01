@@ -1,2 +1,3 @@
-# coursera_verions_fullstack_meta
- coursera verions modules fullstack meta
+# coursera_versions_fullstack_meta
+
+coursera versions modules fullstack meta
